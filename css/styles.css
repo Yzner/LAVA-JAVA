@@ -44,11 +44,7 @@ nav a {
 }
 
 nav a:hover {
-<<<<<<< HEAD
     color: #e9741a;
-=======
-    color: #eee8e4;
->>>>>>> 7acc3a529c9978b2044b055416e4959eea3d2774
     font-size: 36px;
     margin-bottom: 20px;
 }
