@@ -1,8 +1,7 @@
 /* Reset some default styles */
 body, h1, h2, h3, p, ul, li {
-    margin: 10;
-    padding: 10;
-    background-color: #5a472c;
+    margin: 0;
+    padding: 0;
 }
 
 body {
