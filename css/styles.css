@@ -10,7 +10,6 @@ body {
     color: #381a09;
     width: 100%;
     height: 100%;
-    position: fixed;
     z-index: 1050;
     top: 0;
 }
