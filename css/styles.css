@@ -12,7 +12,6 @@ body {
     height: 100%;
     position: fixed;
     z-index: 1050;
-    visibility: hidden;
     top: 0;
     display: flex;
     overflow-y: scroll;
