@@ -30,8 +30,7 @@ nav {
     max-width: 250px;
 }
 .Logo1 img:hover {
-    background-color: #7e685b;
-    font-size: 36px;
+    max-width: 300px;
     margin-bottom: 40px;
 }
 nav ul {
