@@ -143,24 +143,25 @@ footer {
     padding: 0px 0;
     font-size: 10px;
 
-    .form
+    .form{
     width: 250px;
     height: 380px;
+    }
 
     .icons a{
         text-decoration: none;
         color: #fff;
-        }
+    }
         
-        icons ion-icon{
+    icons ion-icon{
         color: #fff;
         font-size: 30px;
         padding-left: 14px;
         padding-top: 5px;
         transition: 0.3s ease;
-        }
+    }
         
-        .icons ion-icon:hover{
+    .icons ion-icon:hover{
         color: #ff7200;
-        }
+    }
 }
