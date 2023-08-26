@@ -44,7 +44,9 @@ nav a {
 }
 
 nav a:hover {
-    color: #7e685b;
+    color: #eee8e4;
+    font-size: 36px;
+    margin-bottom: 20px;
 }
 
 .hero {
