@@ -200,3 +200,14 @@ footer {
     font-size: 24px;
     text-align: right;
 }
+.header-right {
+    float: right;
+  }
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-right {
+    float: none;
+  }
