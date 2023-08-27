@@ -104,11 +104,11 @@ nav a:hover {
     text-align: center;
     font-size: 2rem;
 }
-.menu_row{
+.menu .menu_row{
     display: flex;
     padding: 0 100px 0 100px;
 }
-.menu_col{
+.menu .menu_col{
     box-shadow: 2px 2px 2px #bbb;
     border: 1px solid #bbb;
     background-color: #ffffff;
