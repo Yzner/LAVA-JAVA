@@ -27,6 +27,14 @@ nav {
     max-width: 125px;
 }
 
+.Owner img {
+    max-width: 75px;
+}
+
+.Staff img {
+    max-width: 75px;
+}
+
 .Logo1 img {
     max-width: 250px;
 }
