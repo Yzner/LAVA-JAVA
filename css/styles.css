@@ -6,9 +6,8 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: cursive;
-    background-position: 30%;
-    background-image: url();
-    background-color: #FFFFFF;
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5)50%), url(123.jpg)
 }
 
 header {
