@@ -129,7 +129,7 @@ nav a:hover {
     color: white;
 }
 
-.contact-info{
+.contact ul{
     display: flex;
     width: 100%;
     max-width: 1200px;
@@ -144,6 +144,11 @@ nav a:hover {
     margin: 0 10px;
     width: calc(33%-20px);
     height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
 }
 
 .contact h2 {
