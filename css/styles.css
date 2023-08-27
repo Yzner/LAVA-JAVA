@@ -202,12 +202,4 @@ footer {
 }
 .header-right {
     float: right;
-  }
-  .header a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-  .header-right {
-    float: none;
-  }
+}
