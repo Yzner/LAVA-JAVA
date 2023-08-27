@@ -69,9 +69,9 @@ nav a:hover {
 .hero {
     text-align: center;
     padding: 150px 0;
-    background-image: url('123.jpg');
+    background-image: url('hero-bg.jpg');
     background-size: none;
-    color: transparent;
+    color: white;
 }
 
 .hero h1 {
