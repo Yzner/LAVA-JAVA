@@ -20,6 +20,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    text-align: left;
 }
 
 .logo img {
@@ -45,7 +46,6 @@ nav ul {
     list-style: none;
     display: flex;
     gap: 20px;
-    text-align: right;
 }
 
 nav a {
