@@ -2,6 +2,7 @@
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -122,27 +123,14 @@ nav a:hover {
     margin: 0 auto;
 }
 
-.contact-info {
-    padding: 100px 0;
-    text-align: center;
-    background-color: #4c3c32;
-    color: white;
-}
-
-.card{
+.contact{
+    position: relative;
+    min-height: 100vh;
+    padding: 50px 100px;
     display: flex;
-    width: 100%;
-    max-width: 1200px;
-    align-items: center;
     justify-content: center;
-    padding: 0 20px;
-    background: #2f3542;
-    margin: 0 10px;
-    width: calc(33%-20px);
-    height: 200px;
-    flex-direction: column;
     align-items: center;
-    color: #ffffff;
+    flex-direction: column;
 }
 
 .contact h2 {
