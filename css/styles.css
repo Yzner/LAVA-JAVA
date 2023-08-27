@@ -6,12 +6,8 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: cursive;
-    background-color: #f0b23f;
-    color: #381a09;
-    width: 100%;
-    height: 100%;
-    z-index: 1050;
-    top: 0;
+    background-image: url('123.jpg');
+
 }
 
 header {
