@@ -6,8 +6,9 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: cursive;
-    background: '123.jpg';
-
+    background-position: 30%;
+    background-image: url(C:\Users\acer\LAVA-JAVA\img);
+    background-color: #FFFFFF;
 }
 
 header {
