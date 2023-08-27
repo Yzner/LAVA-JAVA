@@ -7,7 +7,6 @@ body, h1, h2, h3, p, ul, li {
 body {
     font-family: cursive;
     width: 100%;
-    display: flex;
     background: linear-gradient(to top, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5)50%), url('123.jpg')
 }
 
