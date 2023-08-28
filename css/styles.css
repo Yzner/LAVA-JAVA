@@ -72,7 +72,7 @@ nav a:hover {
     background-size: none;
     color: white;
     margin-bottom: none;
-    background-image: url(https://png.pngtree.com/background/20230522/original/pngtree-coffee-shop-interior-design-jpg-on-iphone-picture-image_2690202.jpg);
+    background-image: linear-gradient(rgba(4, 9,30,0.7), rgba(4,9.30,0.7)), url(https://png.pngtree.com/background/20230522/original/pngtree-coffee-shop-interior-design-jpg-on-iphone-picture-image_2690202.jpg));
 }
 
 .hero h1 {
