@@ -325,7 +325,7 @@ footer {
 .shop-container{
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 5rem;
     margin-top: 5rem;
 }
 .shop-container .box{
