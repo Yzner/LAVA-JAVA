@@ -353,7 +353,7 @@ img {
 .menu .menus .menu-column .single-menu img{
     border-radius: 50%;
     max-width: 220px;
-    border: 20px dashed #e6cf84;
+    border: 1px dashed #e6cf84;
     padding: 10px;
     margin-right: 60px;
 }
