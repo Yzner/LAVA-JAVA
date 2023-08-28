@@ -165,6 +165,7 @@ nav a:hover {
     position: relative;
     padding: 20px;
     display: flex;
+    align-items: center;
 }
 .container .contactInfo .box .icon{
     min-width: 60px;
