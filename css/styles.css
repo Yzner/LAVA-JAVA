@@ -313,7 +313,7 @@ footer {
 }
 .menu .section-title h2{
     text-transform: capitalize;
-    font-size: 55px;
+    font-size: 36px;
     position: relative;
     display: inline-block;
     padding-bottom: 20px;
@@ -322,8 +322,8 @@ footer {
 .menu .section-title h2::before{
     content: '';
     position: absolute;
-    width: 60px;
-    height: 2px;
+    width: 100px;
+    height: 6px;
     background-color: #008148;
     bottom: 0;
     left: 50%;
