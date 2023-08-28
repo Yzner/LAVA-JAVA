@@ -8,7 +8,10 @@ body, h1, h2, h3, p, ul, li {
     list-style: none;
     scroll-behavior: smooth;
 }
-
+:root{
+    --main-color: #008148;
+    --second-color:#1e3932;
+}
 body {
     font-family: cursive;
     background-color: #e6cf84;
