@@ -313,13 +313,13 @@ footer {
     position: relative;
     display: inline-block;
     padding-bottom: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 .menu .section-title h2::before{
     content: '';
     position: absolute;
-    width: 200px;
-    height: 4px;
+    width: 120px;
+    height: 2px;
     background-color: #e90e32;
     bottom: 0;
     left: 50%;
