@@ -329,7 +329,7 @@ footer {
     margin-top: 5rem;
 }
 .shop-container .box{
-    flex: 1 1 10rem;
+    flex: 2 2 10rem;
     background: var(--main-color);
     padding: 20px;
     display: flex;
