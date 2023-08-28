@@ -72,6 +72,7 @@ nav a:hover {
     background-size: none;
     color: white;
     margin-bottom: none;
+    background-image: linear-gradient(rgba(4, 9,30,0.7), rgba(4,9.30,0.7)), url(img/background.jpg);
 }
 
 .hero h1 {
