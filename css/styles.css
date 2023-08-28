@@ -70,7 +70,7 @@ nav a:hover {
     color: white;
     margin-bottom: none;
 }
-.hero{
+.body .hero{
     background-image: url('123.jpg');
 }
 
