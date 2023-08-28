@@ -331,5 +331,15 @@ footer {
     flex-wrap: wrap;
 }
 img {
-    max-width: 100px;
+    max-width: 200px;
+}
+.menu .menus .menu-column{
+    width: 30%;
+}
+.menu .menus .menu-column h4{
+    text-transform: capitalized;
+    font: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    position: relative;
 }
