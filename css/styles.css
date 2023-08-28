@@ -335,6 +335,7 @@ img {
 }
 .menu .menus .menu-column{
     width: 30%;
+    display: flex;
 }
 .menu .menus .menu-column h4{
     text-transform: capitalized;
