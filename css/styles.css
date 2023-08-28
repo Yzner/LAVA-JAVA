@@ -329,3 +329,8 @@ footer {
     left: 50%;
     transform: translateX(-50%);
 }
+.menu .menus{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
