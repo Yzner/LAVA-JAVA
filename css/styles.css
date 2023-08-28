@@ -371,3 +371,8 @@ img {
     font-weight: 600;
     font-style: italic;
 }
+h3 {
+    margin-top: 60px;
+    font-size: 36px;
+    margin-bottom: none;
+}
