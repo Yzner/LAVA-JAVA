@@ -181,7 +181,7 @@ nav a:hover {
     display: flex;
     margin-left: 20px;
     font-size: 16px;
-    color: #fff;
+    color: white;
     flex-direction: column;
     font-weight: 300;
 }
@@ -192,7 +192,7 @@ nav a:hover {
 .contactForm{
     width: 40%;
     padding: 40px;
-    background: #fff;
+    background: white;
 }
 .contactForm h2{
     font-size: 3opx;
@@ -236,7 +236,7 @@ nav a:hover {
 .contactForm .inputBox input[type="submit"]{
     width: 100px;
     background: #00bcd4;
-    color: #fff;
+    color: white;
     border: none;
     cursor: pointer;
     padding: 10px;
