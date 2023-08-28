@@ -354,3 +354,11 @@ img {
     padding: 3px;
     margin-right: 15px;
 }
+.menu .menus .menu-column .single-menu .menu-content h5{
+    text-transform: capitalized;
+    font-size: 22px;
+    font-weight: 500;
+    border-bottom: 1px dashed #222;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
