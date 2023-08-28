@@ -334,4 +334,16 @@ footer {
     font-size: 35px;
     position: relative;
     display: inline-block;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+.section-title h2::before{
+    content: '';
+    position: absolute;
+    width: 60px;
+    height: 2px;
+    background-color: #008148;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
 }
