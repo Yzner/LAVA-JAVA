@@ -70,6 +70,9 @@ nav a:hover {
     color: white;
     margin-bottom: none;
 }
+.hero{
+    background-image: url('123.jpg');
+}
 
 .hero h1 {
     font-size: 36px;
