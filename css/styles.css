@@ -346,6 +346,7 @@ img {
 .menu .menus .menu-column .single-menu{
     display: flex;
     align-items: center;
+    margin-top: 30px;
 }
 .menu .menus .menu-column .single-menu img{
     border-radius: 50%;
@@ -361,4 +362,10 @@ img {
     border-bottom: 1px dashed #222;
     padding-bottom: 5px;
     margin-bottom: 10px;
+}
+.menu .menus .menu-column .single-menu .menu-content h5 span{
+    color: #e90e32;
+    float: right;
+    font-weight: 600;
+    font-style: italic;
 }
