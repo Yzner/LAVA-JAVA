@@ -350,8 +350,8 @@ img {
 }
 .menu .menus .menu-column .single-menu img{
     border-radius: 50%;
-    max-width: 100px;
-    border: 2px dashed #e6cf84;
+    max-width: 200px;
+    border: 1px dashed #e6cf84;
     padding: 3px;
     margin-right: 15px;
 }
