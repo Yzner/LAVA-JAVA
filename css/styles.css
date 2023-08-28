@@ -343,3 +343,14 @@ img {
     margin-bottom: 10px;
     position: relative;
 }
+.menu .menus .menu-column .single-menu{
+    display: flex;
+    align-items: center;
+}
+.menu .menus .menu-column .single-menu img{
+    border-radius: 50%;
+    max-width: 100px;
+    border: 1px dashed #e6cf84;
+    padding: 3px;
+    margin-right: 15px;
+}
